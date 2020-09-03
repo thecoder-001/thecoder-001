@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thecoder-001.thecoder-001)
+-->
 <h1>GitHub Stats</h1>
 
 [![Thecoder-001's github stats](https://github-readme-stats.vercel.app/api?username=thecoder-001&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/thecoder-001)
