@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 <h1>GitHub Stats</h1>
 
-[![Thecoder-001's github stats](https://github-readme-stats.vercel.app/api?username=thecoder-001&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/thecoder-001)
+[![Thecoder-001's github stats](https://github-readme-stats.vercel.app/api?username=thecoder-001&count_private=true&show_icons=true&include_all_commits=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)](https://github.com/thecoder-001)
 
