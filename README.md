@@ -20,10 +20,13 @@ Here are some ideas to get you started:
 
 <details>
   <summary>My Profile Stats</summary>
-  <br/>
-  Nope, they aren't good.
-[![Thecoder-001's github stats](https://github-readme-stats.vercel.app/api?username=thecoder-001&count_private=true&show_icons=true&include_all_commits=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)](https://github.com/thecoder-001)
-  </br>
+  <br>
+  Nope, they aren't any good...
+  <br><br>
+  <!-- [![Thecoder-001's github stats](https://github-readme-stats.vercel.app/api?username=thecoder-001&count_private=true&show_icons=true&include_all_commits=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)](https://github.com/thecoder-001) -->
+  <a href="https://github.com/thecoder-001"><img alt="Thecoder001's gitHub stats" src="https://github-readme-stats.vercel.app/api?username=thecoder-001&count_private=true&show_icons=true&include_all_commits=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true" /></a>
+
+  <br>
 </detail>
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
