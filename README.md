@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/thecoder-001"><img alt="Thecoder001's gitHub stats" src="https://github-readme-stats.vercel.app/api?username=thecoder-001&count_private=true&show_icons=true&include_all_commits=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true" /></a>
 
   <br>
-</detail>
+</details>
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
