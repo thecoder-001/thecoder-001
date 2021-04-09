@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thecoder-001.thecoder-001)
 -->
-<h1>GitHub Stats</h1>
+<!-- <h1>GitHub Stats</h1>
 
 [![Thecoder-001's github stats](https://github-readme-stats.vercel.app/api?username=thecoder-001&count_private=true&show_icons=true&include_all_commits=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)](https://github.com/thecoder-001)
-
+-->
