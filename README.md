@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am thecoder-001,
-a student who simply loves to code.<sup>[[Citation needed](https://www.xkcd.com/285/ "Workaround: If we wait long enough, the earth would be consumed by the sun.")]</sup> afsfgrrrgeggsfdfdgdgffgregredfdfxbfbxbddbsssdvdvghggfdrv
+a student who simply loves to code.<sup>[[Citation needed](https://www.xkcd.com/285/ "Workaround: If we wait long enough, the earth would be consumed by the sun.")]</sup>
 <!--
 **thecoder-001/thecoder-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
