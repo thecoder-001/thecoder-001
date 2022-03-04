@@ -1,9 +1,10 @@
 ## Hi there 👋
 I am thecoder-001,
-a student who simply loves to code.<sup>[[Citation needed](https://www.xkcd.com/285/ "Workaround: If we wait long enough, the earth would be consumed by the sun.")]</sup>
+and I break stuff.
+
 <!--
 **thecoder-001/thecoder-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<sup>[[Citation needed](https://www.xkcd.com/285/ "Workaround: If we wait long enough, the earth would be consumed by the sun.")]</sup>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
